@@ -1,0 +1,11 @@
+!.idea/libraries
+!.idea/dictionaries
+.out/*
+*/*.tokens
+*/src/*.tokens
+
+*/test/
+
+*/build
+
+*/*.iml
